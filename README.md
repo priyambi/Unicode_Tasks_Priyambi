@@ -52,4 +52,27 @@ It includes my tasks for Unicode Interview
 >![image](https://user-images.githubusercontent.com/79246912/127499574-70891349-eac8-4f82-b5a6-2be19a15178c.png)
 
 
+### 3.COWIN
+>For performing this task I watched videos on API fetching,AJAX and XHR but still could not achieve the target of the task.
+>
+>I fetched the data on console but while printing it on actual browser when user clicks and fetching a particular ID did not get successfully executed.
 
+>![image](https://user-images.githubusercontent.com/79246912/127604211-475c5f12-39c7-471f-82e0-d9289aca524a.png)
+
+>![image](https://user-images.githubusercontent.com/79246912/127604284-ec6d3418-323e-4e33-b98e-db660a538572.png)
+
+
+
+
+
+## BACK END TASKS:
+
+>Back End Web Developement is a completely new domain for me and I explored it for the first time and could not perform major tasks but learnt about it little in the process.
+
+### 1.LOGIC
+
+>My first attempt in doing this question was to run 2 for loops. Outer loop to enumerate over each word and inner loop to check the equality of the word. I initialised a counter and stored the frequency in it.The program became complex and lengthy and this is when I came across the Counter Library of Python.
+
+>The counter library simplified the task a lot.
+
+>![image](https://user-images.githubusercontent.com/79246912/127605135-985459ca-c985-480f-a7ae-fb3985a96c0e.png)
