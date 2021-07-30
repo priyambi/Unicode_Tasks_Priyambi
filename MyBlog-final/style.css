@@ -29,10 +29,6 @@ body{
   padding-left: 30rem;
 
 }
-section{
-    padding:1rem 5%;
-    min-height: 100vh;
-}
 header{
 	position: fixed;
 	top: 0;
@@ -425,11 +421,6 @@ section{
     font-size: 1.7rem;
 }
 
-.contact .row{
-    display: flex;
-    flex-wrap: wrap;
-    gap:1.5rem;
-}
 
 .footer{
     margin-top: 2rem;
